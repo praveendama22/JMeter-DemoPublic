@@ -1247,7 +1247,7 @@ vars.put(&quot;RANDOM_STRING&quot;,random);
             <hashTree/>
           </hashTree>
         </hashTree>
-        <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
+        <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="false">
           <boolProp name="ResultCollector.error_logging">false</boolProp>
           <objProp>
             <name>saveConfig</name>
@@ -1319,7 +1319,7 @@ vars.put(&quot;RANDOM_STRING&quot;,random);
               <connectTime>true</connectTime>
             </value>
           </objProp>
-          <stringProp name="filename"></stringProp>
+          <stringProp name="filename">C:\Users\pdama\Downloads\MyRun1 (1).jtl</stringProp>
         </ResultCollector>
         <hashTree/>
       </hashTree>
