@@ -11,7 +11,7 @@ pipeline {
             steps {
             
                 bat """
-                C:\\Users\\pdama\\Downloads\\apache-jmeter-5.5\\bin\\jmeter.bat -n -t "TestPlan\\RubricDemo.jmx" -l MyRun1.jtl
+                C:\\Users\\pdama\\Downloads\\apache-jmeter-5.5\\bin\\jmeter.bat -n -t "TestPlan\\RubricDemo.jmx" -l DemoRun.jtl
                 """
             
             }
